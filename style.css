@@ -1,0 +1,41 @@
+.photo-container {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    gap: 15px;
+}
+.title {
+    color: rgb(43, 88, 20);
+}
+.picture {
+    width: 400px;
+    height: 300px;
+}
+.button-picture {
+    border-radius: 8px;
+    cursor: pointer;
+}
+.button-delite {
+    border-radius: 8px;
+    cursor: pointer;
+}
+.button-atrebute {
+    border-radius: 8px;
+    cursor: pointer;
+}
+.img-cat {
+    width: 400px;
+    height: 400px;
+}
+.button-update {
+    border-radius: 8px;
+    cursor: pointer;
+}
+.img-kitty {
+    width: 200px;
+    height: 200px;
+}
+.button-copy {
+    border-radius: 8px;
+    cursor: pointer;
+}
